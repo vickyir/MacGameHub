@@ -1,4 +1,0 @@
-module HubCore {
-header "HubCore-Swift.h"
-export *
-}
