@@ -1,0 +1,11 @@
+{
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift" : {
+    "abi-baseline-json" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub.abi.json",
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary.dia",
+    "swiftdoc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub.swiftdoc",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub.swiftmodule",
+    "swiftsourceinfo" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/MacGameHub-p.build/Objects-normal/arm64/MacGameHub.swiftsourceinfo"
+  }
+}

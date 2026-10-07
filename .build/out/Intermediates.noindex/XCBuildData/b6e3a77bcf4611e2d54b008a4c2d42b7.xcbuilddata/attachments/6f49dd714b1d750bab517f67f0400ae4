@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests-primary.dia",
+    "emit-module-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests-primary-emit-module.dia",
+    "pch" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests-primary.swiftdeps"
+  },
+  "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Tests/HubCoreTests/HubCoreTests.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/HubCoreTests-p.build/Objects-normal/arm64/HubCoreTests~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,1019 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.xctest/Contents/MacOS/MacGameHubPackageTests",
+      "coverageBinaryPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.xctest/Contents/MacOS/MacGameHubPackageTests",
+      "packagePath" : "/Users/il/Documents/MacGameHub",
+      "productName" : "MacGameHubPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.HubCore-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/sources",
+      "importPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/D3DMetal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/EngineManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/GameScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Installers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/LauncherCompatibility.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/LibraryStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Paths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/ProcessMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Shell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/VDF.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/WineRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/XInputFixDLLs.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HubCore",
+      "moduleOutputPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCore.swiftmodule",
+      "objects" : [
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/include/HubCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macgamehub"
+      ],
+      "outputFileMapPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerSupport.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/D3DMetal.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/EngineManager.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/GameScanner.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/Installers.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/LauncherCompatibility.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/LibraryStore.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/Models.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/Paths.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/ProcessMonitor.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/Shell.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/VDF.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/WineRunner.swift",
+        "/Users/il/Documents/MacGameHub/Sources/HubCore/XInputFixDLLs.swift"
+      ],
+      "tempsPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HubCoreTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/sources",
+      "importPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Tests/HubCoreTests/HubCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HubCoreTests",
+      "moduleOutputPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/HubCoreTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macgamehub"
+      ],
+      "outputFileMapPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/il/Documents/MacGameHub/Tests/HubCoreTests/HubCoreTests.swift"
+      ],
+      "tempsPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MacGameHub-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/sources",
+      "importPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel+GameMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/MacGameHubApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleSettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/CleanupSheet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/LibraryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/Sheets.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "MacGameHub",
+      "moduleOutputPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/MacGameHub.swiftmodule",
+      "objects" : [
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/AppModel+GameMode.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/AppModel.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/MacGameHubApp.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/BottleDetailView.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/BottleSettingsView.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/CleanupSheet.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/ContentView.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/LibraryView.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/SetupView.swift.o",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/Sheets.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "MacGameHub_main",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macgamehub"
+      ],
+      "outputFileMapPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/MacGameHub.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel+GameMode.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/MacGameHubApp.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleDetailView.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleSettingsView.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/CleanupSheet.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/ContentView.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/LibraryView.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/SetupView.swift",
+        "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/Sheets.swift"
+      ],
+      "tempsPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.MacGameHubPackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/sources",
+      "importPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/HubCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "MacGameHubPackageTests",
+      "moduleOutputPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/MacGameHubPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/include/MacGameHubPackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "macgamehub"
+      ],
+      "outputFileMapPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules/MacGameHubPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "HubCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "HubCore",
+      "-package-name",
+      "macgamehub",
+      "-c",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerSupport.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/D3DMetal.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/EngineManager.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/GameScanner.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/Installers.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/LauncherCompatibility.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/LibraryStore.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/Models.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/Paths.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/ProcessMonitor.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/Shell.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/VDF.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/WineRunner.swift",
+      "/Users/il/Documents/MacGameHub/Sources/HubCore/XInputFixDLLs.swift",
+      "-I",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/include/HubCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macgamehub",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "HubCoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "HubCoreTests",
+      "-package-name",
+      "macgamehub",
+      "-c",
+      "/Users/il/Documents/MacGameHub/Tests/HubCoreTests/HubCoreTests.swift",
+      "-I",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macgamehub",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MacGameHub" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MacGameHub",
+      "-package-name",
+      "macgamehub",
+      "-c",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel+GameMode.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/MacGameHubApp.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleDetailView.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleSettingsView.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/CleanupSheet.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/ContentView.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/LibraryView.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/SetupView.swift",
+      "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/Sheets.swift",
+      "-I",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "MacGameHub_main",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macgamehub",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "MacGameHubPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MacGameHubPackageTests",
+      "-package-name",
+      "macgamehub",
+      "-c",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/include/MacGameHubPackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "macgamehub",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "HubCore" : [
+
+    ],
+    "HubCoreTests" : [
+      "HubCore"
+    ],
+    "MacGameHub" : [
+      "HubCore"
+    ],
+    "MacGameHubPackageTests" : [
+      "HubCoreTests",
+      "HubCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : [
+      {
+
+      }
+    ]
+  },
+  "writeCommands" : {
+    "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerSupport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/D3DMetal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/EngineManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/GameScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Installers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/LauncherCompatibility.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/LibraryStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Paths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/ProcessMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/Shell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/VDF.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/WineRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/HubCore/XInputFixDLLs.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/sources"
+    },
+    "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Tests/HubCoreTests/HubCoreTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCoreTests.build/sources"
+    },
+    "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel+GameMode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/MacGameHubApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleSettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/CleanupSheet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/LibraryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/Sheets.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHub.build/sources"
+    },
+    "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/MacGameHubPackageTests.build/sources"
+    },
+    "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

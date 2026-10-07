@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/primary.swiftdeps"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerSupport.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ControllerSupport.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/D3DMetal.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/D3DMetal.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/EngineManager.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/EngineManager.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/GameScanner.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/GameScanner.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/Installers.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Installers.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/LauncherCompatibility.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LauncherCompatibility.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/LibraryStore.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/LibraryStore.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/Models.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Models.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/Paths.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Paths.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/ProcessMonitor.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/ProcessMonitor.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/Shell.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/Shell.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/VDF.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/VDF.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/WineRunner.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/WineRunner.dia"  },
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/XInputFixDLLs.swift": {
+    "dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs.d",
+    "object": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs.swift.o",
+    "swiftmodule": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs~partial.swiftmodule",
+    "swift-dependencies": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs.swiftdeps",
+    "diagnostics": "/Users/il/Documents/MacGameHub/.build/index-build/arm64-apple-macosx/debug/HubCore.build/XInputFixDLLs.dia"  }
+}

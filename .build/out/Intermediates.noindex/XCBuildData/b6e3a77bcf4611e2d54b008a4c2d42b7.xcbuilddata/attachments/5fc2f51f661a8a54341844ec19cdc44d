@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary.dia",
+    "emit-module-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary-emit-module.dia",
+    "pch" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHub-primary.swiftdeps"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel+GameMode.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel+GameMode~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/AppModel.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/AppModel~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/MacGameHubApp.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/MacGameHubApp~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleDetailView.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleDetailView~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/BottleSettingsView.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/BottleSettingsView~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/CleanupSheet.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/CleanupSheet~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/ContentView.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/LibraryView.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/LibraryView~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/SetupView.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/SetupView~partial.swiftmodule"
+  },
+  "/Users/il/Documents/MacGameHub/Sources/MacGameHub/Views/Sheets.swift" : {
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.dia",
+    "index-unit-output-path" : "/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.o",
+    "llvm-bc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.bc",
+    "object" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.o",
+    "swift-dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets.swiftdeps",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Debug/MacGameHub-p.build/Objects-normal/arm64/Sheets~partial.swiftmodule"
+  }
+}

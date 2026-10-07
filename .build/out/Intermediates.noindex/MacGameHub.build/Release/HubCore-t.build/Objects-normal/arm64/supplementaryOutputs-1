@@ -1,0 +1,12 @@
+{
+  "/Users/il/Documents/MacGameHub/Sources/HubCore/ControllerBridge.swift" : {
+    "abi-baseline-json" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore.abi.json",
+    "const-values" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore-primary.swiftconstvalues",
+    "dependencies" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore-primary.d",
+    "diagnostics" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore-primary.dia",
+    "objc-header" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore-Swift.h",
+    "swiftdoc" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore.swiftdoc",
+    "swiftmodule" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore.swiftmodule",
+    "swiftsourceinfo" : "/Users/il/Documents/MacGameHub/.build/out/Intermediates.noindex/MacGameHub.build/Release/HubCore-t.build/Objects-normal/arm64/HubCore.swiftsourceinfo"
+  }
+}
